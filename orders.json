@@ -4,7 +4,7 @@
     "customer_id": "1001",
     "customer_name": "Cloudpandith",
     "order_date": "2026-01-01T12:00:00Z",
-    "updated_date": "2026-01-01T12:00:00Z",
+    "updated_date": "2026-01-02T12:00:00Z",
     "amount": 150.50,
     "source_system": "orders_app"
   },
